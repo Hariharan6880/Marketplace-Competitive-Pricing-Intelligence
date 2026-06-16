@@ -1,0 +1,501 @@
+seller_id,category,gmv_30d,orders_30d,return_rate,churn_probability,risk_tier,recommended_action
+MNT-0225,Ethnic Wear,0.0,0,60.0,0.9997,High,Quality audit + account review
+MNT-0116,Accessories,0.0,0,26.7,0.9996,High,Quality audit + account review
+MNT-0359,Footwear,0.0,0,27.8,0.9995,High,Quality audit + account review
+MNT-0068,Ethnic Wear,8997.58,3,44.4,0.9995,High,Quality audit + account review
+MNT-0003,Accessories,5087.22,4,25.8,0.9995,High,Quality audit + account review
+MNT-0219,Sports,0.0,0,19.2,0.9994,High,Engagement call + growth incentive
+MNT-0364,Ethnic Wear,15586.89,5,55.1,0.9994,High,Quality audit + account review
+MNT-0275,Western Wear,0.0,0,57.1,0.9992,High,Quality audit + account review
+MNT-0262,Accessories,10008.67,8,23.5,0.9991,High,Quality audit + account review
+MNT-0257,Accessories,4345.75,5,14.8,0.9991,High,Engagement call + growth incentive
+MNT-0311,Footwear,0.0,0,28.0,0.9987,High,Quality audit + account review
+MNT-0203,Footwear,34089.31,7,32.7,0.9986,High,Quality audit + account review
+MNT-0441,Accessories,11489.58,7,21.5,0.9983,High,Quality audit + account review
+MNT-0404,Ethnic Wear,22456.13,7,47.4,0.9983,High,Quality audit + account review
+MNT-0148,Footwear,52772.48,9,43.4,0.9981,High,Quality audit + account review
+MNT-0347,Sports,9349.96,5,13.0,0.998,High,Engagement call + growth incentive
+MNT-0074,Ethnic Wear,41202.9,10,42.6,0.9974,High,Quality audit + account review
+MNT-0057,Footwear,0.0,0,28.6,0.9967,High,Quality audit + account review
+MNT-0037,Ethnic Wear,0.0,0,55.0,0.9951,High,Quality audit + account review
+MNT-0337,Ethnic Wear,0.0,0,47.6,0.9946,High,Quality audit + account review
+MNT-0051,Ethnic Wear,33104.58,9,52.3,0.9946,High,Quality audit + account review
+MNT-0279,Accessories,9094.23,9,13.2,0.9941,High,Engagement call + growth incentive
+MNT-0095,Ethnic Wear,0.0,0,15.4,0.9924,High,Engagement call + growth incentive
+MNT-0236,Accessories,0.0,0,25.0,0.9917,High,Quality audit + account review
+MNT-0410,Sports,11876.48,6,24.2,0.9915,High,Quality audit + account review
+MNT-0480,Footwear,35440.14,8,22.2,0.9907,High,Quality audit + account review
+MNT-0326,Western Wear,22238.74,7,22.7,0.9901,High,Quality audit + account review
+MNT-0412,Western Wear,0.0,0,20.6,0.987,High,Quality audit + account review
+MNT-0218,Ethnic Wear,87918.31,24,37.3,0.9858,High,Quality audit + account review
+MNT-0495,Accessories,14660.57,14,21.2,0.983,High,Quality audit + account review
+MNT-0133,Western Wear,43590.23,13,35.5,0.9823,High,Quality audit + account review
+MNT-0041,Footwear,72405.7,21,28.6,0.9801,High,Quality audit + account review
+MNT-0310,Ethnic Wear,0.0,0,100.0,0.978,High,Quality audit + account review
+MNT-0357,Western Wear,52283.12,17,30.8,0.9728,High,Quality audit + account review
+MNT-0141,Footwear,1733.84,1,11.8,0.9652,High,Engagement call + growth incentive
+MNT-0173,Ethnic Wear,32232.35,8,38.2,0.963,High,Quality audit + account review
+MNT-0476,Ethnic Wear,144709.29,32,35.4,0.9583,High,Quality audit + account review
+MNT-0270,Ethnic Wear,0.0,0,46.2,0.9518,High,Quality audit + account review
+MNT-0320,Sports,13350.52,4,7.9,0.9471,High,Engagement call + growth incentive
+MNT-0045,Accessories,21723.63,17,13.3,0.9466,High,Engagement call + growth incentive
+MNT-0202,Sports,13947.93,6,26.7,0.9436,High,Quality audit + account review
+MNT-0092,Western Wear,48751.97,21,29.4,0.9419,High,Quality audit + account review
+MNT-0425,Western Wear,37366.93,12,33.9,0.9403,High,Quality audit + account review
+MNT-0215,Western Wear,70778.33,19,33.9,0.9332,High,Quality audit + account review
+MNT-0156,Western Wear,56192.58,20,33.0,0.9037,High,Quality audit + account review
+MNT-0134,Ethnic Wear,27992.39,6,32.5,0.8963,High,Quality audit + account review
+MNT-0029,Ethnic Wear,86903.99,22,38.5,0.895,High,Quality audit + account review
+MNT-0180,Western Wear,32391.13,11,39.5,0.8923,High,Quality audit + account review
+MNT-0383,Accessories,18007.82,21,14.5,0.8865,High,Engagement call + growth incentive
+MNT-0108,Ethnic Wear,115133.07,22,39.0,0.8847,High,Quality audit + account review
+MNT-0071,Ethnic Wear,112215.68,25,42.4,0.877,High,Quality audit + account review
+MNT-0387,Western Wear,0.0,0,15.0,0.8559,High,Engagement call + growth incentive
+MNT-0211,Western Wear,25042.57,8,34.0,0.8509,High,Quality audit + account review
+MNT-0494,Ethnic Wear,76191.69,17,34.3,0.8197,High,Quality audit + account review
+MNT-0255,Ethnic Wear,99819.8,24,44.3,0.7998,High,Quality audit + account review
+MNT-0396,Footwear,87259.41,16,27.9,0.7792,High,Quality audit + account review
+MNT-0420,Sports,44811.21,17,25.4,0.772,High,Quality audit + account review
+MNT-0491,Western Wear,145188.42,48,32.7,0.77,High,Quality audit + account review
+MNT-0006,Sports,52010.97,16,18.2,0.7423,High,Engagement call + growth incentive
+MNT-0393,Western Wear,70592.4,19,26.9,0.7379,High,Quality audit + account review
+MNT-0113,Ethnic Wear,67188.14,15,30.3,0.7321,High,Quality audit + account review
+MNT-0461,Western Wear,17250.79,3,24.2,0.7156,High,Quality audit + account review
+MNT-0190,Ethnic Wear,80647.38,23,36.1,0.6775,Medium,Monitor closely
+MNT-0066,Footwear,80340.86,23,28.8,0.6356,Medium,Monitor closely
+MNT-0436,Ethnic Wear,147209.74,42,40.7,0.6083,Medium,Monitor closely
+MNT-0213,Ethnic Wear,135674.06,29,41.8,0.6002,Medium,Monitor closely
+MNT-0300,Western Wear,22092.79,10,19.5,0.5839,Medium,Monitor closely
+MNT-0220,Footwear,28307.29,7,25.8,0.5364,Medium,Monitor closely
+MNT-0024,Accessories,11437.01,12,9.1,0.5081,Medium,Monitor closely
+MNT-0263,Ethnic Wear,75766.66,20,27.9,0.5045,Medium,Monitor closely
+MNT-0033,Ethnic Wear,122181.24,29,33.6,0.493,Medium,Monitor closely
+MNT-0242,Accessories,11488.73,13,6.8,0.4611,Medium,Monitor closely
+MNT-0167,Accessories,27948.94,24,19.6,0.4455,Medium,Monitor closely
+MNT-0472,Footwear,64403.4,16,18.2,0.4406,Medium,Monitor closely
+MNT-0291,Accessories,12587.17,8,18.2,0.4263,Medium,Monitor closely
+MNT-0424,Ethnic Wear,86809.98,28,32.3,0.405,Medium,Monitor closely
+MNT-0010,Footwear,34034.17,9,26.7,0.3853,Low,No action needed
+MNT-0166,Footwear,61409.85,13,20.5,0.3846,Low,No action needed
+MNT-0004,Western Wear,54131.27,15,18.0,0.3686,Low,No action needed
+MNT-0086,Ethnic Wear,73653.1,17,22.9,0.343,Low,No action needed
+MNT-0077,Ethnic Wear,138618.72,31,34.7,0.3287,Low,No action needed
+MNT-0301,Accessories,25592.46,23,12.9,0.3067,Low,No action needed
+MNT-0026,Ethnic Wear,71074.26,20,27.6,0.292,Low,No action needed
+MNT-0352,Ethnic Wear,76642.86,15,26.4,0.2612,Low,No action needed
+MNT-0044,Ethnic Wear,65627.08,15,30.1,0.2596,Low,No action needed
+MNT-0323,Ethnic Wear,28456.24,8,30.0,0.2581,Low,No action needed
+MNT-0464,Ethnic Wear,52438.52,17,34.0,0.2493,Low,No action needed
+MNT-0061,Western Wear,123423.12,40,29.4,0.2099,Low,No action needed
+MNT-0200,Ethnic Wear,91060.14,23,34.7,0.1578,Low,No action needed
+MNT-0363,Ethnic Wear,30531.47,8,22.6,0.1459,Low,No action needed
+MNT-0139,Accessories,32271.85,27,16.3,0.1371,Low,No action needed
+MNT-0106,Western Wear,88538.41,26,24.7,0.1324,Low,No action needed
+MNT-0023,Sports,23197.36,10,6.7,0.1313,Low,No action needed
+MNT-0437,Ethnic Wear,48509.05,14,14.9,0.1278,Low,No action needed
+MNT-0248,Footwear,64451.41,16,14.5,0.1271,Low,No action needed
+MNT-0199,Ethnic Wear,65762.02,14,33.3,0.1267,Low,No action needed
+MNT-0391,Western Wear,33477.5,15,23.1,0.1121,Low,No action needed
+MNT-0470,Footwear,82306.5,18,21.7,0.1092,Low,No action needed
+MNT-0467,Western Wear,70334.82,22,22.2,0.1077,Low,No action needed
+MNT-0260,Western Wear,45575.82,15,25.5,0.1074,Low,No action needed
+MNT-0392,Ethnic Wear,54307.71,16,29.2,0.107,Low,No action needed
+MNT-0206,Ethnic Wear,20550.57,7,10.3,0.1069,Low,No action needed
+MNT-0345,Accessories,13309.36,16,12.0,0.0922,Low,No action needed
+MNT-0054,Western Wear,77319.78,25,24.7,0.0916,Low,No action needed
+MNT-0418,Accessories,13089.06,14,6.5,0.0801,Low,No action needed
+MNT-0338,Western Wear,35975.86,9,18.2,0.0791,Low,No action needed
+MNT-0140,Ethnic Wear,117001.17,25,28.8,0.0741,Low,No action needed
+MNT-0146,Ethnic Wear,69423.62,17,33.3,0.0728,Low,No action needed
+MNT-0356,Footwear,68743.14,22,23.1,0.0717,Low,No action needed
+MNT-0290,Ethnic Wear,69069.73,17,23.1,0.0684,Low,No action needed
+MNT-0278,Footwear,31199.35,11,18.2,0.0644,Low,No action needed
+MNT-0419,Ethnic Wear,113370.47,28,31.8,0.056,Low,No action needed
+MNT-0259,Ethnic Wear,62494.76,16,28.8,0.0555,Low,No action needed
+MNT-0176,Ethnic Wear,105124.13,25,25.0,0.0546,Low,No action needed
+MNT-0325,Accessories,13749.37,13,7.1,0.0525,Low,No action needed
+MNT-0368,Western Wear,31141.42,13,13.3,0.0515,Low,No action needed
+MNT-0423,Ethnic Wear,68247.43,16,26.7,0.0484,Low,No action needed
+MNT-0165,Footwear,118964.54,25,21.3,0.0468,Low,No action needed
+MNT-0247,Western Wear,58745.5,19,18.8,0.0465,Low,No action needed
+MNT-0488,Ethnic Wear,38947.62,12,25.0,0.0444,Low,No action needed
+MNT-0201,Accessories,22225.57,17,6.7,0.0439,Low,No action needed
+MNT-0460,Western Wear,62834.11,19,25.4,0.0421,Low,No action needed
+MNT-0005,Ethnic Wear,66674.18,20,30.6,0.0406,Low,No action needed
+MNT-0188,Ethnic Wear,49787.77,12,16.7,0.04,Low,No action needed
+MNT-0155,Ethnic Wear,114439.66,29,25.5,0.0399,Low,No action needed
+MNT-0365,Western Wear,118906.47,42,23.9,0.0395,Low,No action needed
+MNT-0426,Accessories,67558.51,63,11.3,0.0386,Low,No action needed
+MNT-0406,Accessories,24933.3,19,16.9,0.0343,Low,No action needed
+MNT-0287,Ethnic Wear,48342.41,13,32.5,0.0331,Low,No action needed
+MNT-0349,Western Wear,66048.39,20,20.5,0.0327,Low,No action needed
+MNT-0334,Accessories,37263.36,36,14.2,0.0318,Low,No action needed
+MNT-0228,Footwear,83453.1,23,15.2,0.0315,Low,No action needed
+MNT-0421,Western Wear,36049.9,12,22.0,0.0301,Low,No action needed
+MNT-0182,Accessories,10665.71,10,7.0,0.0296,Low,No action needed
+MNT-0102,Western Wear,119323.05,38,19.3,0.029,Low,No action needed
+MNT-0312,Footwear,92229.52,18,18.0,0.0283,Low,No action needed
+MNT-0333,Western Wear,38823.89,14,18.8,0.0277,Low,No action needed
+MNT-0496,Footwear,158777.96,30,19.4,0.0271,Low,No action needed
+MNT-0382,Sports,40706.87,19,9.7,0.0264,Low,No action needed
+MNT-0369,Ethnic Wear,82551.89,23,21.4,0.0254,Low,No action needed
+MNT-0231,Ethnic Wear,65709.98,17,29.3,0.0251,Low,No action needed
+MNT-0094,Footwear,40543.35,13,7.5,0.0245,Low,No action needed
+MNT-0321,Sports,43032.26,19,3.9,0.0242,Low,No action needed
+MNT-0126,Footwear,61702.37,16,14.9,0.0242,Low,No action needed
+MNT-0151,Accessories,26277.42,23,11.0,0.0242,Low,No action needed
+MNT-0204,Ethnic Wear,102090.81,22,29.7,0.0233,Low,No action needed
+MNT-0459,Accessories,18517.52,12,10.0,0.023,Low,No action needed
+MNT-0497,Footwear,90408.9,22,13.8,0.0229,Low,No action needed
+MNT-0207,Ethnic Wear,72726.56,18,16.0,0.0221,Low,No action needed
+MNT-0264,Ethnic Wear,183199.51,44,29.5,0.022,Low,No action needed
+MNT-0492,Western Wear,76783.59,23,27.9,0.0215,Low,No action needed
+MNT-0198,Accessories,18584.87,17,9.8,0.0212,Low,No action needed
+MNT-0479,Western Wear,47291.58,15,15.3,0.0204,Low,No action needed
+MNT-0078,Western Wear,86092.71,32,23.3,0.0202,Low,No action needed
+MNT-0266,Ethnic Wear,105376.09,26,27.9,0.0202,Low,No action needed
+MNT-0281,Ethnic Wear,90602.1,23,26.8,0.0197,Low,No action needed
+MNT-0313,Ethnic Wear,75593.48,20,15.0,0.0194,Low,No action needed
+MNT-0346,Accessories,53052.71,43,10.2,0.0193,Low,No action needed
+MNT-0428,Accessories,37675.17,28,14.3,0.0186,Low,No action needed
+MNT-0112,Ethnic Wear,150578.71,38,29.9,0.0181,Low,No action needed
+MNT-0458,Footwear,55667.14,15,17.6,0.0176,Low,No action needed
+MNT-0377,Sports,31961.2,13,14.6,0.0168,Low,No action needed
+MNT-0295,Accessories,12197.02,13,11.1,0.0168,Low,No action needed
+MNT-0021,Western Wear,143447.26,44,22.6,0.0164,Low,No action needed
+MNT-0448,Western Wear,59602.94,21,21.7,0.0163,Low,No action needed
+MNT-0014,Accessories,13565.96,13,11.6,0.0162,Low,No action needed
+MNT-0105,Accessories,16021.68,16,10.0,0.0159,Low,No action needed
+MNT-0020,Western Wear,188750.79,60,22.1,0.0158,Low,No action needed
+MNT-0251,Western Wear,36879.7,12,11.9,0.0148,Low,No action needed
+MNT-0329,Western Wear,46503.12,13,17.9,0.0142,Low,No action needed
+MNT-0414,Accessories,19491.97,16,10.6,0.0141,Low,No action needed
+MNT-0131,Ethnic Wear,145892.47,37,29.2,0.014,Low,No action needed
+MNT-0150,Ethnic Wear,48918.17,14,17.9,0.0137,Low,No action needed
+MNT-0289,Footwear,56398.1,15,25.6,0.0135,Low,No action needed
+MNT-0376,Ethnic Wear,73572.07,23,25.3,0.0132,Low,No action needed
+MNT-0449,Ethnic Wear,85525.88,19,22.0,0.013,Low,No action needed
+MNT-0435,Ethnic Wear,102406.82,28,24.4,0.013,Low,No action needed
+MNT-0244,Footwear,52809.56,11,13.3,0.0125,Low,No action needed
+MNT-0194,Accessories,23372.94,18,9.5,0.0122,Low,No action needed
+MNT-0090,Footwear,204406.21,48,16.1,0.012,Low,No action needed
+MNT-0038,Footwear,120092.25,31,16.7,0.0119,Low,No action needed
+MNT-0130,Western Wear,35956.62,12,17.4,0.0114,Low,No action needed
+MNT-0394,Western Wear,96107.31,29,20.6,0.0112,Low,No action needed
+MNT-0223,Western Wear,54644.98,14,12.2,0.0107,Low,No action needed
+MNT-0064,Western Wear,64813.65,18,20.8,0.0104,Low,No action needed
+MNT-0073,Accessories,26637.39,18,9.5,0.0102,Low,No action needed
+MNT-0267,Ethnic Wear,35934.62,13,17.6,0.0098,Low,No action needed
+MNT-0432,Accessories,28163.98,26,10.8,0.0097,Low,No action needed
+MNT-0227,Ethnic Wear,136246.02,38,26.4,0.0096,Low,No action needed
+MNT-0283,Ethnic Wear,135310.27,30,24.7,0.0094,Low,No action needed
+MNT-0235,Sports,117263.4,38,9.9,0.0094,Low,No action needed
+MNT-0008,Accessories,24586.38,18,5.9,0.0094,Low,No action needed
+MNT-0100,Sports,39372.09,15,13.3,0.0093,Low,No action needed
+MNT-0294,Ethnic Wear,83471.62,22,23.3,0.0093,Low,No action needed
+MNT-0265,Sports,61350.61,19,7.4,0.009,Low,No action needed
+MNT-0282,Ethnic Wear,125466.77,33,29.5,0.0088,Low,No action needed
+MNT-0286,Footwear,74734.16,25,15.4,0.0088,Low,No action needed
+MNT-0007,Western Wear,112339.72,31,15.5,0.0087,Low,No action needed
+MNT-0490,Footwear,266970.02,60,15.3,0.0085,Low,No action needed
+MNT-0222,Footwear,85997.8,22,20.0,0.0085,Low,No action needed
+MNT-0081,Western Wear,59618.21,17,19.2,0.0083,Low,No action needed
+MNT-0234,Western Wear,83228.69,29,24.7,0.0082,Low,No action needed
+MNT-0433,Western Wear,79970.9,26,17.7,0.0081,Low,No action needed
+MNT-0454,Ethnic Wear,120303.1,27,26.5,0.0077,Low,No action needed
+MNT-0117,Western Wear,53659.64,18,20.3,0.0076,Low,No action needed
+MNT-0489,Western Wear,69742.13,17,22.2,0.0075,Low,No action needed
+MNT-0098,Ethnic Wear,171160.41,47,27.7,0.0075,Low,No action needed
+MNT-0474,Ethnic Wear,63639.22,14,25.7,0.0075,Low,No action needed
+MNT-0142,Footwear,116570.53,31,18.4,0.0072,Low,No action needed
+MNT-0053,Accessories,41221.16,32,11.9,0.0072,Low,No action needed
+MNT-0239,Ethnic Wear,133887.46,31,24.7,0.007,Low,No action needed
+MNT-0271,Ethnic Wear,81229.29,17,22.9,0.0069,Low,No action needed
+MNT-0469,Ethnic Wear,63302.9,16,20.0,0.0069,Low,No action needed
+MNT-0400,Footwear,171747.65,41,15.3,0.0068,Low,No action needed
+MNT-0075,Ethnic Wear,271982.39,58,25.8,0.0068,Low,No action needed
+MNT-0187,Footwear,180947.22,46,17.8,0.0065,Low,No action needed
+MNT-0015,Footwear,116095.91,27,14.8,0.0065,Low,No action needed
+MNT-0001,Accessories,19928.26,20,8.9,0.0062,Low,No action needed
+MNT-0362,Ethnic Wear,69265.89,19,18.5,0.0062,Low,No action needed
+MNT-0447,Sports,35347.96,17,3.8,0.0062,Low,No action needed
+MNT-0230,Ethnic Wear,71712.77,14,24.2,0.0061,Low,No action needed
+MNT-0389,Ethnic Wear,93465.69,25,23.8,0.0061,Low,No action needed
+MNT-0082,Footwear,191069.53,46,18.0,0.0061,Low,No action needed
+MNT-0343,Accessories,48002.34,36,6.1,0.0059,Low,No action needed
+MNT-0035,Footwear,280170.5,68,9.5,0.0059,Low,No action needed
+MNT-0342,Sports,46749.91,17,9.1,0.0059,Low,No action needed
+MNT-0104,Sports,62864.66,17,12.7,0.0059,Low,No action needed
+MNT-0430,Accessories,36695.41,29,10.0,0.0058,Low,No action needed
+MNT-0477,Footwear,149735.32,30,18.6,0.0057,Low,No action needed
+MNT-0484,Ethnic Wear,101345.19,34,26.8,0.0056,Low,No action needed
+MNT-0340,Sports,58014.53,17,6.8,0.0056,Low,No action needed
+MNT-0273,Ethnic Wear,68398.81,20,27.1,0.0056,Low,No action needed
+MNT-0261,Ethnic Wear,237103.69,55,28.9,0.0056,Low,No action needed
+MNT-0060,Ethnic Wear,106803.48,23,28.4,0.0055,Low,No action needed
+MNT-0446,Western Wear,79551.65,25,23.6,0.0055,Low,No action needed
+MNT-0284,Ethnic Wear,186526.83,39,21.6,0.0055,Low,No action needed
+MNT-0344,Western Wear,94789.5,36,14.4,0.0055,Low,No action needed
+MNT-0296,Sports,69605.13,28,12.2,0.0055,Low,No action needed
+MNT-0361,Sports,123322.59,49,9.8,0.0054,Low,No action needed
+MNT-0409,Ethnic Wear,38369.77,10,28.6,0.0054,Low,No action needed
+MNT-0164,Ethnic Wear,143784.5,33,28.1,0.0054,Low,No action needed
+MNT-0145,Footwear,216566.41,58,13.1,0.0053,Low,No action needed
+MNT-0196,Ethnic Wear,68933.85,17,21.1,0.0052,Low,No action needed
+MNT-0397,Accessories,61465.8,47,7.7,0.0052,Low,No action needed
+MNT-0473,Ethnic Wear,100400.03,27,25.0,0.0051,Low,No action needed
+MNT-0348,Ethnic Wear,85102.76,20,20.0,0.005,Low,No action needed
+MNT-0366,Footwear,93513.04,25,16.3,0.0048,Low,No action needed
+MNT-0322,Footwear,183001.28,45,13.5,0.0048,Low,No action needed
+MNT-0158,Western Wear,103607.81,30,11.0,0.0047,Low,No action needed
+MNT-0399,Footwear,233990.47,60,12.8,0.0047,Low,No action needed
+MNT-0350,Ethnic Wear,117240.95,29,27.5,0.0046,Low,No action needed
+MNT-0056,Accessories,37982.16,29,12.5,0.0046,Low,No action needed
+MNT-0059,Ethnic Wear,73672.37,22,27.6,0.0045,Low,No action needed
+MNT-0373,Footwear,47553.6,10,13.2,0.0045,Low,No action needed
+MNT-0354,Western Wear,135980.7,45,23.7,0.0045,Low,No action needed
+MNT-0185,Accessories,84185.99,72,5.3,0.0044,Low,No action needed
+MNT-0358,Accessories,27930.02,23,9.7,0.0044,Low,No action needed
+MNT-0138,Footwear,116968.29,20,17.5,0.0043,Low,No action needed
+MNT-0299,Accessories,55317.12,50,9.0,0.0043,Low,No action needed
+MNT-0191,Sports,56124.07,25,6.1,0.0042,Low,No action needed
+MNT-0293,Sports,103475.37,33,9.3,0.0042,Low,No action needed
+MNT-0452,Accessories,87594.25,74,11.4,0.0042,Low,No action needed
+MNT-0336,Western Wear,115861.65,40,19.8,0.0042,Low,No action needed
+MNT-0083,Accessories,20124.78,17,6.0,0.0041,Low,No action needed
+MNT-0360,Western Wear,114839.22,40,20.8,0.0041,Low,No action needed
+MNT-0288,Footwear,171504.22,39,20.2,0.0041,Low,No action needed
+MNT-0017,Footwear,239738.59,64,15.5,0.004,Low,No action needed
+MNT-0195,Ethnic Wear,80757.74,22,23.6,0.0039,Low,No action needed
+MNT-0378,Footwear,62745.96,13,16.3,0.0039,Low,No action needed
+MNT-0407,Ethnic Wear,73340.46,16,25.0,0.0039,Low,No action needed
+MNT-0030,Western Wear,58231.7,21,17.9,0.0038,Low,No action needed
+MNT-0240,Ethnic Wear,83794.67,20,21.2,0.0038,Low,No action needed
+MNT-0374,Ethnic Wear,73632.39,22,22.2,0.0037,Low,No action needed
+MNT-0087,Western Wear,52519.62,17,17.0,0.0037,Low,No action needed
+MNT-0121,Western Wear,65621.83,24,14.9,0.0037,Low,No action needed
+MNT-0018,Ethnic Wear,31453.32,10,18.9,0.0037,Low,No action needed
+MNT-0453,Western Wear,39818.45,14,20.9,0.0037,Low,No action needed
+MNT-0339,Ethnic Wear,162953.46,50,19.4,0.0037,Low,No action needed
+MNT-0217,Ethnic Wear,139525.15,35,27.1,0.0036,Low,No action needed
+MNT-0232,Footwear,235646.7,54,16.5,0.0036,Low,No action needed
+MNT-0025,Accessories,21193.85,19,11.1,0.0035,Low,No action needed
+MNT-0161,Ethnic Wear,170141.79,42,22.4,0.0035,Low,No action needed
+MNT-0252,Accessories,44147.11,37,6.3,0.0035,Low,No action needed
+MNT-0143,Sports,82103.9,29,8.7,0.0035,Low,No action needed
+MNT-0249,Footwear,195787.83,44,16.3,0.0033,Low,No action needed
+MNT-0091,Ethnic Wear,187626.88,58,25.7,0.0033,Low,No action needed
+MNT-0096,Western Wear,112015.89,29,20.3,0.0032,Low,No action needed
+MNT-0429,Ethnic Wear,155526.52,36,23.0,0.0032,Low,No action needed
+MNT-0062,Footwear,142739.96,36,10.3,0.0031,Low,No action needed
+MNT-0298,Accessories,49382.73,36,7.7,0.0031,Low,No action needed
+MNT-0481,Footwear,125137.36,32,13.3,0.0031,Low,No action needed
+MNT-0016,Ethnic Wear,149898.84,32,22.1,0.003,Low,No action needed
+MNT-0388,Sports,171281.67,50,7.0,0.003,Low,No action needed
+MNT-0097,Footwear,161136.27,37,13.5,0.003,Low,No action needed
+MNT-0103,Ethnic Wear,174758.39,41,25.3,0.003,Low,No action needed
+MNT-0034,Footwear,110738.35,21,13.6,0.0029,Low,No action needed
+MNT-0314,Footwear,68055.68,19,14.5,0.0029,Low,No action needed
+MNT-0405,Sports,98655.8,33,6.5,0.0029,Low,No action needed
+MNT-0332,Ethnic Wear,117022.09,29,23.4,0.0028,Low,No action needed
+MNT-0268,Ethnic Wear,229943.18,50,28.7,0.0028,Low,No action needed
+MNT-0159,Western Wear,125679.01,45,18.2,0.0027,Low,No action needed
+MNT-0269,Ethnic Wear,215083.38,50,22.0,0.0027,Low,No action needed
+MNT-0375,Ethnic Wear,44305.14,16,25.5,0.0027,Low,No action needed
+MNT-0183,Footwear,75810.01,20,6.2,0.0026,Low,No action needed
+MNT-0031,Western Wear,150683.46,46,14.0,0.0025,Low,No action needed
+MNT-0177,Footwear,96543.73,20,12.2,0.0025,Low,No action needed
+MNT-0088,Footwear,138657.44,32,17.3,0.0025,Low,No action needed
+MNT-0456,Ethnic Wear,67232.3,20,17.1,0.0024,Low,No action needed
+MNT-0465,Western Wear,91771.02,35,21.2,0.0024,Low,No action needed
+MNT-0499,Footwear,93582.72,21,13.9,0.0024,Low,No action needed
+MNT-0468,Sports,63683.04,20,12.1,0.0024,Low,No action needed
+MNT-0067,Footwear,233503.81,57,14.5,0.0024,Low,No action needed
+MNT-0241,Accessories,43050.88,35,8.4,0.0023,Low,No action needed
+MNT-0233,Sports,32704.81,14,13.6,0.0023,Low,No action needed
+MNT-0135,Western Wear,87077.1,27,11.2,0.0023,Low,No action needed
+MNT-0353,Footwear,224774.14,48,13.8,0.0023,Low,No action needed
+MNT-0330,Ethnic Wear,74760.22,20,22.4,0.0023,Low,No action needed
+MNT-0011,Footwear,120463.89,33,15.9,0.0023,Low,No action needed
+MNT-0032,Sports,131117.6,45,7.8,0.0022,Low,No action needed
+MNT-0028,Ethnic Wear,124807.34,29,27.6,0.0022,Low,No action needed
+MNT-0111,Footwear,178186.23,34,14.3,0.0022,Low,No action needed
+MNT-0027,Footwear,126220.26,39,16.1,0.0021,Low,No action needed
+MNT-0147,Ethnic Wear,135987.02,30,26.4,0.0021,Low,No action needed
+MNT-0212,Western Wear,122334.92,40,17.8,0.0021,Low,No action needed
+MNT-0498,Western Wear,158700.26,42,18.6,0.0021,Low,No action needed
+MNT-0379,Footwear,183027.64,43,17.7,0.0021,Low,No action needed
+MNT-0500,Footwear,166382.12,37,18.2,0.0021,Low,No action needed
+MNT-0049,Western Wear,123483.18,44,19.5,0.0021,Low,No action needed
+MNT-0085,Ethnic Wear,66845.24,17,21.7,0.002,Low,No action needed
+MNT-0137,Sports,67747.66,27,8.0,0.002,Low,No action needed
+MNT-0451,Ethnic Wear,69030.12,16,21.7,0.002,Low,No action needed
+MNT-0434,Accessories,28027.49,25,8.2,0.002,Low,No action needed
+MNT-0450,Western Wear,56618.75,18,11.6,0.002,Low,No action needed
+MNT-0002,Footwear,85991.78,26,16.7,0.002,Low,No action needed
+MNT-0285,Western Wear,72582.72,22,17.0,0.002,Low,No action needed
+MNT-0043,Western Wear,62893.34,22,10.4,0.0019,Low,No action needed
+MNT-0237,Footwear,139562.11,35,15.6,0.0019,Low,No action needed
+MNT-0274,Western Wear,69613.89,23,17.3,0.0019,Low,No action needed
+MNT-0303,Footwear,179372.55,47,15.0,0.0019,Low,No action needed
+MNT-0118,Western Wear,61281.92,20,12.5,0.0018,Low,No action needed
+MNT-0245,Western Wear,92841.01,24,17.2,0.0018,Low,No action needed
+MNT-0316,Ethnic Wear,110482.71,31,24.8,0.0018,Low,No action needed
+MNT-0019,Accessories,32679.81,27,13.8,0.0018,Low,No action needed
+MNT-0052,Ethnic Wear,62281.7,18,27.7,0.0018,Low,No action needed
+MNT-0080,Accessories,37323.32,37,15.8,0.0018,Low,No action needed
+MNT-0076,Ethnic Wear,74333.18,22,21.1,0.0018,Low,No action needed
+MNT-0246,Accessories,49349.39,41,9.7,0.0018,Low,No action needed
+MNT-0395,Ethnic Wear,151914.68,37,19.4,0.0018,Low,No action needed
+MNT-0181,Accessories,42316.25,36,9.3,0.0017,Low,No action needed
+MNT-0048,Ethnic Wear,43136.44,10,18.8,0.0017,Low,No action needed
+MNT-0013,Western Wear,49052.55,15,16.3,0.0017,Low,No action needed
+MNT-0093,Footwear,134321.98,30,16.8,0.0017,Low,No action needed
+MNT-0381,Footwear,95062.75,18,14.9,0.0017,Low,No action needed
+MNT-0416,Ethnic Wear,80094.04,23,16.9,0.0016,Low,No action needed
+MNT-0417,Ethnic Wear,87141.43,17,20.4,0.0016,Low,No action needed
+MNT-0403,Accessories,43462.51,30,8.8,0.0016,Low,No action needed
+MNT-0101,Sports,65070.69,19,6.9,0.0016,Low,No action needed
+MNT-0107,Footwear,165228.66,34,17.4,0.0016,Low,No action needed
+MNT-0122,Western Wear,148187.18,56,19.5,0.0016,Low,No action needed
+MNT-0327,Accessories,31088.75,28,7.3,0.0016,Low,No action needed
+MNT-0483,Western Wear,105359.23,36,14.0,0.0016,Low,No action needed
+MNT-0355,Footwear,168875.49,43,10.7,0.0015,Low,No action needed
+MNT-0258,Ethnic Wear,109074.96,26,21.4,0.0015,Low,No action needed
+MNT-0292,Ethnic Wear,144646.31,35,26.7,0.0015,Low,No action needed
+MNT-0115,Ethnic Wear,58862.09,19,25.8,0.0015,Low,No action needed
+MNT-0042,Accessories,31218.51,24,6.7,0.0015,Low,No action needed
+MNT-0208,Western Wear,89965.64,30,15.0,0.0015,Low,No action needed
+MNT-0486,Footwear,129086.38,28,12.6,0.0014,Low,No action needed
+MNT-0367,Accessories,32834.2,26,7.5,0.0014,Low,No action needed
+MNT-0132,Sports,102167.67,30,8.2,0.0014,Low,No action needed
+MNT-0120,Western Wear,117971.14,42,17.6,0.0014,Low,No action needed
+MNT-0482,Ethnic Wear,147495.56,33,19.5,0.0014,Low,No action needed
+MNT-0209,Ethnic Wear,43646.74,13,18.8,0.0014,Low,No action needed
+MNT-0443,Western Wear,82607.39,32,21.0,0.0014,Low,No action needed
+MNT-0079,Footwear,142843.55,35,12.0,0.0014,Low,No action needed
+MNT-0046,Accessories,80186.96,64,9.0,0.0014,Low,No action needed
+MNT-0243,Ethnic Wear,165740.44,42,24.4,0.0014,Low,No action needed
+MNT-0384,Footwear,139443.29,35,8.5,0.0014,Low,No action needed
+MNT-0157,Ethnic Wear,98175.2,31,22.2,0.0013,Low,No action needed
+MNT-0341,Ethnic Wear,123761.16,32,22.6,0.0013,Low,No action needed
+MNT-0189,Western Wear,100506.03,35,17.4,0.0013,Low,No action needed
+MNT-0254,Ethnic Wear,103073.31,33,22.6,0.0013,Low,No action needed
+MNT-0256,Western Wear,78786.86,22,8.3,0.0013,Low,No action needed
+MNT-0149,Footwear,127734.13,27,17.4,0.0013,Low,No action needed
+MNT-0128,Ethnic Wear,232028.24,55,18.2,0.0012,Low,No action needed
+MNT-0317,Footwear,146899.45,32,15.9,0.0012,Low,No action needed
+MNT-0109,Ethnic Wear,133846.22,34,19.0,0.0012,Low,No action needed
+MNT-0162,Sports,142766.49,47,6.4,0.0012,Low,No action needed
+MNT-0402,Sports,100149.67,44,9.0,0.0012,Low,No action needed
+MNT-0380,Western Wear,54581.92,20,12.0,0.0012,Low,No action needed
+MNT-0152,Accessories,63546.6,55,13.1,0.0012,Low,No action needed
+MNT-0238,Accessories,36439.35,28,16.0,0.0012,Low,No action needed
+MNT-0226,Sports,79365.56,30,6.0,0.0012,Low,No action needed
+MNT-0253,Footwear,59964.5,12,6.1,0.0012,Low,No action needed
+MNT-0371,Western Wear,113893.5,39,14.0,0.0012,Low,No action needed
+MNT-0229,Western Wear,250334.46,76,14.9,0.0012,Low,No action needed
+MNT-0390,Accessories,28446.06,26,10.5,0.0012,Low,No action needed
+MNT-0440,Western Wear,154918.86,52,17.3,0.0011,Low,No action needed
+MNT-0184,Ethnic Wear,150940.99,41,21.7,0.0011,Low,No action needed
+MNT-0466,Western Wear,59628.7,20,16.1,0.0011,Low,No action needed
+MNT-0110,Sports,48256.42,17,4.7,0.0011,Low,No action needed
+MNT-0318,Western Wear,103556.69,32,17.0,0.0011,Low,No action needed
+MNT-0129,Ethnic Wear,168275.28,40,21.4,0.0011,Low,No action needed
+MNT-0114,Western Wear,97601.7,30,16.1,0.0011,Low,No action needed
+MNT-0272,Ethnic Wear,154047.19,38,19.1,0.0011,Low,No action needed
+MNT-0386,Sports,130184.01,46,10.4,0.0011,Low,No action needed
+MNT-0372,Ethnic Wear,117588.33,31,20.0,0.0011,Low,No action needed
+MNT-0169,Ethnic Wear,145753.12,35,19.3,0.0011,Low,No action needed
+MNT-0172,Footwear,144954.09,40,14.7,0.0011,Low,No action needed
+MNT-0192,Ethnic Wear,144770.03,38,18.6,0.001,Low,No action needed
+MNT-0439,Western Wear,115407.71,33,20.2,0.001,Low,No action needed
+MNT-0040,Western Wear,100035.8,36,19.1,0.001,Low,No action needed
+MNT-0154,Footwear,119296.83,35,10.8,0.001,Low,No action needed
+MNT-0197,Western Wear,170811.09,54,15.3,0.001,Low,No action needed
+MNT-0462,Ethnic Wear,89369.42,25,18.1,0.001,Low,No action needed
+MNT-0174,Sports,126832.24,46,6.2,0.001,Low,No action needed
+MNT-0160,Western Wear,203614.03,70,16.0,0.001,Low,No action needed
+MNT-0136,Ethnic Wear,114321.67,28,23.3,0.001,Low,No action needed
+MNT-0144,Western Wear,98242.91,33,16.7,0.001,Low,No action needed
+MNT-0351,Western Wear,40601.63,16,8.5,0.001,Low,No action needed
+MNT-0307,Footwear,136365.39,34,11.2,0.001,Low,No action needed
+MNT-0485,Ethnic Wear,142575.39,38,23.9,0.001,Low,No action needed
+MNT-0012,Sports,72448.01,20,5.8,0.001,Low,No action needed
+MNT-0036,Ethnic Wear,134393.5,37,25.9,0.001,Low,No action needed
+MNT-0058,Footwear,280753.61,67,14.9,0.001,Low,No action needed
+MNT-0487,Footwear,146148.16,33,15.0,0.001,Low,No action needed
+MNT-0124,Footwear,193575.27,47,10.0,0.0009,Low,No action needed
+MNT-0119,Footwear,163931.75,23,11.1,0.0009,Low,No action needed
+MNT-0210,Footwear,102031.92,24,10.7,0.0009,Low,No action needed
+MNT-0123,Ethnic Wear,95096.91,21,19.2,0.0009,Low,No action needed
+MNT-0063,Footwear,117851.74,30,13.0,0.0009,Low,No action needed
+MNT-0478,Western Wear,93970.94,30,17.4,0.0009,Low,No action needed
+MNT-0324,Footwear,127437.21,32,14.3,0.0009,Low,No action needed
+MNT-0205,Ethnic Wear,129801.74,31,30.3,0.0009,Low,No action needed
+MNT-0171,Ethnic Wear,173262.89,44,21.7,0.0009,Low,No action needed
+MNT-0319,Ethnic Wear,219868.76,61,24.7,0.0008,Low,No action needed
+MNT-0471,Footwear,110210.04,31,9.5,0.0008,Low,No action needed
+MNT-0475,Ethnic Wear,209924.34,47,20.3,0.0008,Low,No action needed
+MNT-0370,Accessories,29552.13,25,9.4,0.0008,Low,No action needed
+MNT-0214,Accessories,44172.01,29,8.6,0.0008,Low,No action needed
+MNT-0186,Western Wear,64146.89,24,13.9,0.0008,Low,No action needed
+MNT-0047,Footwear,155276.6,33,9.7,0.0008,Low,No action needed
+MNT-0413,Ethnic Wear,104926.19,32,19.2,0.0008,Low,No action needed
+MNT-0463,Sports,89184.78,35,7.6,0.0008,Low,No action needed
+MNT-0065,Western Wear,53047.75,20,15.3,0.0008,Low,No action needed
+MNT-0411,Western Wear,94872.02,32,13.0,0.0008,Low,No action needed
+MNT-0385,Footwear,59269.58,14,11.8,0.0007,Low,No action needed
+MNT-0250,Footwear,71626.35,17,3.8,0.0007,Low,No action needed
+MNT-0072,Footwear,57413.42,17,11.4,0.0007,Low,No action needed
+MNT-0398,Ethnic Wear,119881.64,28,15.4,0.0007,Low,No action needed
+MNT-0408,Accessories,43346.56,34,9.6,0.0007,Low,No action needed
+MNT-0308,Western Wear,164095.54,49,18.8,0.0007,Low,No action needed
+MNT-0444,Ethnic Wear,182282.06,47,20.0,0.0007,Low,No action needed
+MNT-0431,Sports,92595.16,33,7.1,0.0007,Low,No action needed
+MNT-0415,Ethnic Wear,53231.81,18,13.5,0.0007,Low,No action needed
+MNT-0050,Ethnic Wear,212995.65,49,21.5,0.0007,Low,No action needed
+MNT-0457,Sports,103924.95,36,7.9,0.0007,Low,No action needed
+MNT-0455,Ethnic Wear,84739.94,25,19.2,0.0007,Low,No action needed
+MNT-0216,Western Wear,122021.21,39,15.4,0.0007,Low,No action needed
+MNT-0039,Ethnic Wear,110366.47,26,16.3,0.0006,Low,No action needed
+MNT-0276,Footwear,100705.27,22,11.9,0.0006,Low,No action needed
+MNT-0224,Sports,151697.47,51,5.5,0.0006,Low,No action needed
+MNT-0438,Footwear,158213.73,38,13.8,0.0006,Low,No action needed
+MNT-0331,Western Wear,62647.2,23,12.3,0.0006,Low,No action needed
+MNT-0009,Ethnic Wear,240042.76,55,18.3,0.0006,Low,No action needed
+MNT-0306,Footwear,52547.25,15,7.9,0.0006,Low,No action needed
+MNT-0328,Footwear,80284.88,24,12.2,0.0006,Low,No action needed
+MNT-0170,Sports,87801.6,26,9.4,0.0006,Low,No action needed
+MNT-0069,Ethnic Wear,233838.66,50,19.6,0.0006,Low,No action needed
+MNT-0427,Ethnic Wear,85176.62,27,20.2,0.0005,Low,No action needed
+MNT-0178,Sports,58634.19,17,7.1,0.0005,Low,No action needed
+MNT-0422,Ethnic Wear,170705.98,48,20.4,0.0005,Low,No action needed
+MNT-0445,Ethnic Wear,66153.04,15,23.8,0.0005,Low,No action needed
+MNT-0277,Ethnic Wear,191290.94,45,18.7,0.0005,Low,No action needed
+MNT-0221,Ethnic Wear,143844.95,44,18.2,0.0005,Low,No action needed
+MNT-0280,Accessories,58152.32,49,7.0,0.0005,Low,No action needed
+MNT-0127,Ethnic Wear,119903.31,33,18.9,0.0005,Low,No action needed
+MNT-0335,Ethnic Wear,220451.06,58,18.5,0.0005,Low,No action needed
+MNT-0309,Ethnic Wear,144316.53,37,18.8,0.0005,Low,No action needed
+MNT-0193,Ethnic Wear,156218.19,35,21.2,0.0005,Low,No action needed
+MNT-0401,Ethnic Wear,192963.33,45,20.7,0.0005,Low,No action needed
+MNT-0153,Ethnic Wear,194176.38,53,20.4,0.0005,Low,No action needed
+MNT-0297,Sports,95495.74,28,5.1,0.0004,Low,No action needed
+MNT-0125,Ethnic Wear,63333.52,15,6.0,0.0004,Low,No action needed
+MNT-0022,Footwear,164249.92,52,13.7,0.0004,Low,No action needed
+MNT-0493,Western Wear,98466.79,31,16.1,0.0004,Low,No action needed
+MNT-0442,Ethnic Wear,117161.27,24,18.7,0.0004,Low,No action needed
+MNT-0055,Western Wear,71218.65,21,11.0,0.0004,Low,No action needed
+MNT-0302,Ethnic Wear,125779.2,29,17.6,0.0004,Low,No action needed
+MNT-0163,Ethnic Wear,118998.59,27,17.3,0.0004,Low,No action needed
+MNT-0084,Ethnic Wear,133393.84,35,18.0,0.0004,Low,No action needed
+MNT-0070,Footwear,130176.68,27,14.9,0.0004,Low,No action needed
+MNT-0304,Footwear,115432.86,28,12.7,0.0003,Low,No action needed
+MNT-0099,Ethnic Wear,117623.35,30,19.4,0.0003,Low,No action needed
+MNT-0305,Accessories,30236.28,28,9.7,0.0003,Low,No action needed
+MNT-0315,Footwear,68512.21,22,10.9,0.0003,Low,No action needed
+MNT-0175,Ethnic Wear,90830.89,23,14.3,0.0003,Low,No action needed
+MNT-0168,Accessories,41034.3,31,12.8,0.0003,Low,No action needed
+MNT-0089,Ethnic Wear,178850.64,44,17.9,0.0002,Low,No action needed
+MNT-0179,Accessories,49339.36,40,4.2,0.0002,Low,No action needed

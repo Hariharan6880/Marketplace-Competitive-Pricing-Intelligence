@@ -1,0 +1,501 @@
+seller_id,seller_name,category,total_orders,total_returns,return_rate_pct,quality_returns,size_returns,damage_returns
+MNT-0071,Delhi Ethnic House,Ethnic Wear,253,109,43.1,25,48,7
+MNT-0213,Kolkata Ethnic Mart,Ethnic Wear,233,97,41.6,18,30,13
+MNT-0255,Chennai Ethnic Bazaar,Ethnic Wear,209,83,39.7,16,33,8
+MNT-0190,Bengaluru Ethnic Mart,Ethnic Wear,165,65,39.4,12,22,9
+MNT-0134,Delhi Ethnic Collection,Ethnic Wear,382,147,38.5,28,55,22
+MNT-0068,Mumbai Ethnic Hub,Ethnic Wear,355,132,37.2,29,58,7
+MNT-0436,Mumbai Ethnic Mart,Ethnic Wear,713,261,36.6,56,102,28
+MNT-0044,Surat Ethnic Studio,Ethnic Wear,544,195,35.8,39,86,23
+MNT-0051,Bengaluru Ethnic House,Ethnic Wear,618,221,35.8,54,82,27
+MNT-0494,Mumbai Ethnic Mart,Ethnic Wear,514,184,35.8,27,91,16
+MNT-0037,Bengaluru Ethnic Mart,Ethnic Wear,155,55,35.5,15,20,7
+MNT-0287,Kolkata Ethnic Hub,Ethnic Wear,240,85,35.4,16,38,9
+MNT-0108,Mumbai Ethnic House,Ethnic Wear,817,288,35.3,55,110,34
+MNT-0074,Kolkata Ethnic Bazaar,Ethnic Wear,411,144,35.0,22,53,15
+MNT-0077,Surat Ethnic Collection,Ethnic Wear,610,211,34.6,30,88,20
+MNT-0364,Bengaluru Ethnic Trends,Ethnic Wear,585,200,34.2,36,86,18
+MNT-0146,Kolkata Ethnic Collection,Ethnic Wear,540,182,33.7,39,82,16
+MNT-0352,Mumbai Ethnic Emporium,Ethnic Wear,356,118,33.1,21,39,17
+MNT-0218,Mumbai Ethnic Hub,Ethnic Wear,442,145,32.8,37,51,10
+MNT-0404,Bengaluru Ethnic Mart,Ethnic Wear,1015,327,32.2,73,126,30
+MNT-0270,Bengaluru Ethnic Hub,Ethnic Wear,28,9,32.1,2,2,0
+MNT-0491,Bengaluru Western Bazaar,Western Wear,1064,340,32.0,70,133,33
+MNT-0095,Mumbai Ethnic House,Ethnic Wear,151,48,31.8,10,22,2
+MNT-0225,Mumbai Ethnic Collection,Ethnic Wear,284,88,31.0,13,38,9
+MNT-0310,Surat Ethnic Mart,Ethnic Wear,272,82,30.1,18,28,9
+MNT-0275,Mumbai Western House,Western Wear,233,70,30.0,17,27,5
+MNT-0061,Mumbai Western Hub,Western Wear,694,206,29.7,35,84,22
+MNT-0148,Bengaluru Footwear Hub,Footwear,390,116,29.7,21,51,10
+MNT-0156,Delhi Western Collection,Western Wear,684,203,29.7,42,88,18
+MNT-0337,Chennai Ethnic Collection,Ethnic Wear,98,29,29.6,7,13,4
+MNT-0412,Kolkata Western Trends,Western Wear,785,231,29.4,46,100,22
+MNT-0425,Mumbai Western Bazaar,Western Wear,407,115,28.3,20,39,21
+MNT-0215,Kolkata Western Trends,Western Wear,311,87,28.0,21,36,8
+MNT-0013,Mumbai Western House,Western Wear,133,37,27.8,8,12,6
+MNT-0474,Surat Ethnic House,Ethnic Wear,108,30,27.8,11,8,2
+MNT-0211,Surat Western Studio,Western Wear,426,118,27.7,25,40,10
+MNT-0092,Delhi Western Bazaar,Western Wear,682,186,27.3,33,80,19
+MNT-0173,Surat Ethnic Hub,Ethnic Wear,174,47,27.0,11,16,5
+MNT-0199,Chennai Ethnic Mart,Ethnic Wear,244,66,27.0,7,28,8
+MNT-0375,Chennai Ethnic Studio,Ethnic Wear,374,101,27.0,22,35,17
+MNT-0234,Delhi Western House,Western Wear,548,147,26.8,31,58,13
+MNT-0133,Mumbai Western Mart,Western Wear,174,46,26.4,10,17,2
+MNT-0033,Delhi Ethnic Trends,Ethnic Wear,350,92,26.3,22,42,6
+MNT-0464,Mumbai Ethnic Mart,Ethnic Wear,412,107,26.0,16,44,9
+MNT-0180,Delhi Western Collection,Western Wear,316,82,25.9,25,31,5
+MNT-0273,Bengaluru Ethnic Bazaar,Ethnic Wear,533,137,25.7,17,61,17
+MNT-0282,Surat Ethnic Bazaar,Ethnic Wear,270,69,25.6,15,27,8
+MNT-0066,Chennai Footwear Mart,Footwear,347,88,25.4,18,32,13
+MNT-0264,Mumbai Ethnic Mart,Ethnic Wear,865,220,25.4,41,94,27
+MNT-0488,Mumbai Ethnic Trends,Ethnic Wear,186,47,25.3,7,26,2
+MNT-0429,Bengaluru Ethnic Emporium,Ethnic Wear,826,208,25.2,39,82,19
+MNT-0147,Mumbai Ethnic House,Ethnic Wear,764,192,25.1,47,79,14
+MNT-0268,Mumbai Ethnic Studio,Ethnic Wear,440,110,25.0,20,46,9
+MNT-0048,Mumbai Ethnic Mart,Ethnic Wear,193,48,24.9,15,18,4
+MNT-0283,Delhi Ethnic Bazaar,Ethnic Wear,394,98,24.9,9,44,11
+MNT-0398,Mumbai Ethnic Bazaar,Ethnic Wear,417,104,24.9,12,46,12
+MNT-0029,Kolkata Ethnic Mart,Ethnic Wear,630,156,24.8,30,58,21
+MNT-0112,Chennai Ethnic Studio,Ethnic Wear,356,88,24.7,14,44,10
+MNT-0057,Delhi Footwear Studio,Footwear,195,48,24.6,9,23,4
+MNT-0203,Mumbai Footwear Trends,Footwear,354,87,24.6,12,37,11
+MNT-0263,Mumbai Ethnic Trends,Ethnic Wear,540,133,24.6,34,50,12
+MNT-0387,Delhi Western Hub,Western Wear,65,16,24.6,3,6,2
+MNT-0036,Mumbai Ethnic Emporium,Ethnic Wear,270,66,24.4,11,23,6
+MNT-0098,Bengaluru Ethnic Emporium,Ethnic Wear,1014,247,24.4,54,92,23
+MNT-0157,Kolkata Ethnic Collection,Ethnic Wear,598,146,24.4,23,54,19
+MNT-0060,Bengaluru Ethnic Collection,Ethnic Wear,626,152,24.3,34,61,20
+MNT-0016,Mumbai Ethnic Bazaar,Ethnic Wear,426,103,24.2,21,48,9
+MNT-0059,Bengaluru Ethnic Collection,Ethnic Wear,616,149,24.2,24,63,13
+MNT-0230,Bengaluru Ethnic Hub,Ethnic Wear,418,101,24.2,23,40,10
+MNT-0311,Mumbai Footwear Bazaar,Footwear,645,156,24.2,37,57,17
+MNT-0091,Surat Ethnic Hub,Ethnic Wear,1262,304,24.1,71,118,33
+MNT-0165,Delhi Footwear Hub,Footwear,522,126,24.1,26,55,13
+MNT-0435,Kolkata Ethnic Collection,Ethnic Wear,436,105,24.1,18,45,11
+MNT-0462,Delhi Ethnic House,Ethnic Wear,394,95,24.1,19,30,5
+MNT-0176,Delhi Ethnic Emporium,Ethnic Wear,504,121,24.0,20,54,10
+MNT-0419,Delhi Ethnic Bazaar,Ethnic Wear,371,89,24.0,18,42,8
+MNT-0422,Kolkata Ethnic Emporium,Ethnic Wear,729,175,24.0,38,65,20
+MNT-0396,Surat Footwear Studio,Footwear,674,161,23.9,44,59,11
+MNT-0413,Surat Ethnic Hub,Ethnic Wear,703,168,23.9,31,75,17
+MNT-0445,Delhi Ethnic Mart,Ethnic Wear,180,43,23.9,10,14,6
+MNT-0461,Bengaluru Western Bazaar,Western Wear,88,21,23.9,3,7,2
+MNT-0480,Mumbai Footwear House,Footwear,607,145,23.9,29,48,17
+MNT-0392,Surat Ethnic House,Ethnic Wear,403,96,23.8,21,25,16
+MNT-0451,Bengaluru Ethnic Emporium,Ethnic Wear,345,82,23.8,11,35,8
+MNT-0290,Bengaluru Ethnic Collection,Ethnic Wear,253,60,23.7,10,33,3
+MNT-0484,Bengaluru Ethnic Bazaar,Ethnic Wear,482,114,23.7,28,52,7
+MNT-0084,Delhi Ethnic Studio,Ethnic Wear,649,153,23.6,29,61,13
+MNT-0103,Surat Ethnic House,Ethnic Wear,699,164,23.5,45,62,12
+MNT-0209,Delhi Ethnic House,Ethnic Wear,234,55,23.5,11,21,6
+MNT-0115,Delhi Ethnic Studio,Ethnic Wear,400,93,23.3,16,47,5
+MNT-0281,Delhi Ethnic Emporium,Ethnic Wear,511,119,23.3,22,44,14
+MNT-0476,Bengaluru Ethnic Collection,Ethnic Wear,824,192,23.3,35,69,21
+MNT-0028,Surat Ethnic Hub,Ethnic Wear,315,73,23.2,16,24,9
+MNT-0005,Bengaluru Ethnic Emporium,Ethnic Wear,476,110,23.1,23,46,12
+MNT-0188,Surat Ethnic Bazaar,Ethnic Wear,324,75,23.1,18,34,4
+MNT-0155,Kolkata Ethnic Studio,Ethnic Wear,379,87,23.0,15,45,7
+MNT-0196,Bengaluru Ethnic Emporium,Ethnic Wear,565,130,23.0,26,57,15
+MNT-0204,Kolkata Ethnic Bazaar,Ethnic Wear,305,70,23.0,14,27,7
+MNT-0374,Delhi Ethnic Collection,Ethnic Wear,634,146,23.0,31,53,14
+MNT-0401,Bengaluru Ethnic Trends,Ethnic Wear,769,177,23.0,36,71,16
+MNT-0442,Kolkata Ethnic Trends,Ethnic Wear,343,79,23.0,17,27,6
+MNT-0129,Bengaluru Ethnic Trends,Ethnic Wear,790,181,22.9,43,78,14
+MNT-0164,Mumbai Ethnic Hub,Ethnic Wear,773,177,22.9,37,64,17
+MNT-0205,Delhi Ethnic Collection,Ethnic Wear,720,165,22.9,24,68,21
+MNT-0395,Chennai Ethnic Collection,Ethnic Wear,607,139,22.9,23,61,9
+MNT-0009,Bengaluru Ethnic Emporium,Ethnic Wear,1077,246,22.8,51,99,20
+MNT-0192,Surat Ethnic Collection,Ethnic Wear,622,142,22.8,31,64,14
+MNT-0389,Mumbai Ethnic Hub,Ethnic Wear,478,109,22.8,15,43,12
+MNT-0424,Bengaluru Ethnic Emporium,Ethnic Wear,692,158,22.8,33,66,19
+MNT-0444,Delhi Ethnic House,Ethnic Wear,1125,257,22.8,44,116,25
+MNT-0163,Mumbai Ethnic Collection,Ethnic Wear,585,133,22.7,33,60,11
+MNT-0184,Delhi Ethnic Studio,Ethnic Wear,554,126,22.7,25,50,14
+MNT-0113,Surat Ethnic Hub,Ethnic Wear,713,161,22.6,41,59,20
+MNT-0153,Chennai Ethnic Emporium,Ethnic Wear,340,77,22.6,16,26,10
+MNT-0161,Delhi Ethnic Emporium,Ethnic Wear,871,197,22.6,43,90,11
+MNT-0227,Delhi Ethnic Hub,Ethnic Wear,718,162,22.6,43,69,7
+MNT-0335,Chennai Ethnic Mart,Ethnic Wear,1042,235,22.6,39,99,29
+MNT-0341,Mumbai Ethnic Collection,Ethnic Wear,680,154,22.6,24,63,15
+MNT-0348,Chennai Ethnic Emporium,Ethnic Wear,319,72,22.6,13,29,10
+MNT-0069,Delhi Ethnic Bazaar,Ethnic Wear,1140,257,22.5,53,115,21
+MNT-0141,Chennai Footwear Studio,Footwear,182,41,22.5,10,19,2
+MNT-0473,Mumbai Ethnic Collection,Ethnic Wear,676,152,22.5,28,61,15
+MNT-0128,Mumbai Ethnic Studio,Ethnic Wear,1275,286,22.4,56,110,21
+MNT-0136,Mumbai Ethnic Studio,Ethnic Wear,456,102,22.4,23,35,9
+MNT-0018,Chennai Ethnic Studio,Ethnic Wear,283,63,22.3,19,17,5
+MNT-0258,Surat Ethnic Studio,Ethnic Wear,530,118,22.3,30,48,8
+MNT-0456,Surat Ethnic Collection,Ethnic Wear,175,39,22.3,6,21,3
+MNT-0240,Delhi Ethnic Hub,Ethnic Wear,374,83,22.2,13,33,8
+MNT-0330,Delhi Ethnic House,Ethnic Wear,544,121,22.2,25,46,12
+MNT-0359,Delhi Footwear Studio,Footwear,495,110,22.2,17,44,9
+MNT-0193,Mumbai Ethnic Bazaar,Ethnic Wear,521,115,22.1,29,37,15
+MNT-0195,Surat Ethnic Studio,Ethnic Wear,199,44,22.1,10,17,4
+MNT-0409,Delhi Ethnic Collection,Ethnic Wear,262,58,22.1,22,12,6
+MNT-0437,Surat Ethnic Studio,Ethnic Wear,289,64,22.1,14,28,4
+MNT-0075,Kolkata Ethnic Studio,Ethnic Wear,942,207,22.0,43,85,21
+MNT-0217,Bengaluru Ethnic Collection,Ethnic Wear,781,172,22.0,33,69,17
+MNT-0277,Bengaluru Ethnic House,Ethnic Wear,833,183,22.0,32,65,19
+MNT-0421,Mumbai Western Bazaar,Western Wear,328,72,22.0,10,33,3
+MNT-0454,Mumbai Ethnic Collection,Ethnic Wear,702,154,21.9,38,48,12
+MNT-0319,Bengaluru Ethnic Emporium,Ethnic Wear,1126,245,21.8,48,93,28
+MNT-0455,Surat Ethnic Emporium,Ethnic Wear,505,110,21.8,22,42,9
+MNT-0099,Surat Ethnic Emporium,Ethnic Wear,235,51,21.7,4,26,4
+MNT-0376,Surat Ethnic Hub,Ethnic Wear,623,135,21.7,31,49,13
+MNT-0475,Delhi Ethnic Trends,Ethnic Wear,951,206,21.7,38,89,18
+MNT-0261,Chennai Ethnic Trends,Ethnic Wear,1152,249,21.6,46,102,19
+MNT-0266,Mumbai Ethnic Trends,Ethnic Wear,834,180,21.6,38,76,17
+MNT-0372,Mumbai Ethnic Emporium,Ethnic Wear,185,40,21.6,10,14,2
+MNT-0026,Delhi Ethnic Collection,Ethnic Wear,418,90,21.5,17,36,11
+MNT-0039,Mumbai Ethnic Hub,Ethnic Wear,785,169,21.5,27,71,22
+MNT-0086,Bengaluru Ethnic Studio,Ethnic Wear,339,73,21.5,13,27,13
+MNT-0109,Chennai Ethnic Bazaar,Ethnic Wear,661,142,21.5,23,58,16
+MNT-0200,Delhi Ethnic House,Ethnic Wear,568,122,21.5,23,49,13
+MNT-0316,Surat Ethnic Trends,Ethnic Wear,898,192,21.4,38,78,17
+MNT-0123,Surat Ethnic Mart,Ethnic Wear,442,94,21.3,13,45,4
+MNT-0363,Kolkata Ethnic Hub,Ethnic Wear,216,46,21.3,7,24,5
+MNT-0243,Kolkata Ethnic Collection,Ethnic Wear,1198,254,21.2,53,110,24
+MNT-0313,Surat Ethnic Mart,Ethnic Wear,433,92,21.2,17,39,11
+MNT-0050,Delhi Ethnic Studio,Ethnic Wear,965,204,21.1,35,86,22
+MNT-0065,Chennai Western Mart,Western Wear,412,87,21.1,15,33,11
+MNT-0127,Kolkata Ethnic Bazaar,Ethnic Wear,313,66,21.1,10,32,4
+MNT-0326,Mumbai Western Emporium,Western Wear,256,54,21.1,8,25,5
+MNT-0485,Mumbai Ethnic Bazaar,Ethnic Wear,786,166,21.1,30,70,13
+MNT-0498,Mumbai Western Hub,Western Wear,741,156,21.1,31,60,15
+MNT-0339,Delhi Ethnic Trends,Ethnic Wear,865,182,21.0,35,77,18
+MNT-0492,Chennai Western Bazaar,Western Wear,376,79,21.0,7,32,9
+MNT-0171,Mumbai Ethnic Trends,Ethnic Wear,594,124,20.9,23,49,10
+MNT-0272,Bengaluru Ethnic Bazaar,Ethnic Wear,750,157,20.9,37,64,14
+MNT-0294,Mumbai Ethnic Studio,Ethnic Wear,623,130,20.9,28,55,10
+MNT-0415,Surat Ethnic Bazaar,Ethnic Wear,416,87,20.9,20,31,9
+MNT-0482,Kolkata Ethnic Emporium,Ethnic Wear,722,151,20.9,31,62,14
+MNT-0332,Bengaluru Ethnic Emporium,Ethnic Wear,534,111,20.8,23,38,9
+MNT-0150,Mumbai Ethnic Emporium,Ethnic Wear,377,78,20.7,16,32,6
+MNT-0417,Mumbai Ethnic Mart,Ethnic Wear,372,77,20.7,16,31,4
+MNT-0140,Kolkata Ethnic Collection,Ethnic Wear,325,67,20.6,15,20,8
+MNT-0254,Bengaluru Ethnic Mart,Ethnic Wear,601,124,20.6,26,51,10
+MNT-0292,Delhi Ethnic Bazaar,Ethnic Wear,865,178,20.6,41,68,11
+MNT-0472,Mumbai Footwear Trends,Footwear,366,75,20.5,18,31,6
+MNT-0131,Surat Ethnic Studio,Ethnic Wear,323,66,20.4,10,24,8
+MNT-0284,Bengaluru Ethnic Emporium,Ethnic Wear,456,93,20.4,22,36,7
+MNT-0309,Bengaluru Ethnic Bazaar,Ethnic Wear,563,115,20.4,22,52,8
+MNT-0302,Delhi Ethnic House,Ethnic Wear,469,95,20.3,19,43,6
+MNT-0369,Mumbai Ethnic House,Ethnic Wear,222,45,20.3,7,18,7
+MNT-0427,Mumbai Ethnic House,Ethnic Wear,533,108,20.3,19,40,12
+MNT-0052,Mumbai Ethnic Bazaar,Ethnic Wear,272,55,20.2,8,26,2
+MNT-0259,Mumbai Ethnic Trends,Ethnic Wear,376,76,20.2,14,31,6
+MNT-0207,Kolkata Ethnic House,Ethnic Wear,616,124,20.1,32,46,9
+MNT-0308,Mumbai Western House,Western Wear,1062,213,20.1,34,82,24
+MNT-0020,Kolkata Western Collection,Western Wear,485,97,20.0,23,32,12
+MNT-0085,Surat Ethnic House,Ethnic Wear,295,59,20.0,10,27,4
+MNT-0407,Bengaluru Ethnic Bazaar,Ethnic Wear,360,72,20.0,18,18,7
+MNT-0206,Bengaluru Ethnic Emporium,Ethnic Wear,267,53,19.9,14,21,3
+MNT-0449,Kolkata Ethnic Emporium,Ethnic Wear,507,101,19.9,23,44,10
+MNT-0239,Delhi Ethnic Collection,Ethnic Wear,711,141,19.8,25,57,10
+MNT-0260,Bengaluru Western Hub,Western Wear,393,78,19.8,18,30,9
+MNT-0269,Mumbai Ethnic Trends,Ethnic Wear,1083,213,19.7,46,83,24
+MNT-0336,Bengaluru Western Mart,Western Wear,809,159,19.7,39,58,16
+MNT-0495,Surat Accessories Collection,Accessories,468,92,19.7,16,42,7
+MNT-0130,Kolkata Western Bazaar,Western Wear,341,67,19.6,16,32,3
+MNT-0158,Delhi Western Studio,Western Wear,413,81,19.6,15,34,10
+MNT-0221,Bengaluru Ethnic Hub,Ethnic Wear,724,141,19.5,27,60,12
+MNT-0318,Bengaluru Western Collection,Western Wear,379,74,19.5,12,33,9
+MNT-0333,Delhi Western Bazaar,Western Wear,313,61,19.5,12,26,7
+MNT-0443,Mumbai Western Trends,Western Wear,426,83,19.5,16,32,6
+MNT-0469,Bengaluru Ethnic Trends,Ethnic Wear,278,54,19.4,12,18,5
+MNT-0030,Delhi Western Bazaar,Western Wear,561,108,19.3,21,49,7
+MNT-0271,Delhi Ethnic Bazaar,Ethnic Wear,347,67,19.3,12,31,9
+MNT-0357,Chennai Western Collection,Western Wear,326,63,19.3,20,18,7
+MNT-0448,Kolkata Western Studio,Western Wear,467,90,19.3,18,42,7
+MNT-0078,Bengaluru Western Collection,Western Wear,702,135,19.2,22,47,16
+MNT-0350,Surat Ethnic Mart,Ethnic Wear,629,121,19.2,21,55,9
+MNT-0267,Mumbai Ethnic Studio,Ethnic Wear,251,48,19.1,9,17,3
+MNT-0411,Kolkata Western Mart,Western Wear,534,102,19.1,19,36,10
+MNT-0007,Delhi Western Collection,Western Wear,575,109,19.0,18,49,7
+MNT-0054,Surat Western Hub,Western Wear,611,116,19.0,25,51,9
+MNT-0076,Bengaluru Ethnic Collection,Ethnic Wear,501,95,19.0,15,42,13
+MNT-0216,Mumbai Western Collection,Western Wear,867,165,19.0,28,67,14
+MNT-0245,Bengaluru Western Studio,Western Wear,658,125,19.0,17,58,13
+MNT-0031,Chennai Western Mart,Western Wear,542,102,18.8,22,37,6
+MNT-0049,Chennai Western Emporium,Western Wear,787,147,18.7,20,67,19
+MNT-0064,Bengaluru Western Studio,Western Wear,353,66,18.7,15,21,4
+MNT-0186,Delhi Western Bazaar,Western Wear,546,102,18.7,19,48,16
+MNT-0460,Bengaluru Western Trends,Western Wear,401,75,18.7,15,34,5
+MNT-0106,Kolkata Western Bazaar,Western Wear,413,77,18.6,10,39,5
+MNT-0323,Delhi Ethnic Bazaar,Ethnic Wear,280,52,18.6,10,21,6
+MNT-0423,Bengaluru Ethnic Trends,Ethnic Wear,338,63,18.6,9,27,6
+MNT-0446,Delhi Western Hub,Western Wear,516,96,18.6,19,40,13
+MNT-0089,Mumbai Ethnic Bazaar,Ethnic Wear,324,60,18.5,9,22,8
+MNT-0159,Bengaluru Western Emporium,Western Wear,750,139,18.5,30,56,16
+MNT-0329,Kolkata Western Trends,Western Wear,249,46,18.5,9,19,4
+MNT-0416,Surat Ethnic Collection,Ethnic Wear,493,91,18.5,15,47,6
+MNT-0160,Delhi Western Bazaar,Western Wear,1279,235,18.4,53,83,33
+MNT-0338,Surat Western Emporium,Western Wear,114,21,18.4,5,4,6
+MNT-0360,Bengaluru Western House,Western Wear,1004,184,18.3,42,75,18
+MNT-0393,Delhi Western Mart,Western Wear,612,112,18.3,23,50,11
+MNT-0167,Kolkata Accessories Bazaar,Accessories,725,132,18.2,32,50,9
+MNT-0169,Delhi Ethnic Hub,Ethnic Wear,951,173,18.2,32,65,14
+MNT-0247,Delhi Western Mart,Western Wear,538,98,18.2,17,43,11
+MNT-0274,Kolkata Western Collection,Western Wear,422,77,18.2,13,36,6
+MNT-0351,Mumbai Western Mart,Western Wear,382,69,18.1,14,28,5
+MNT-0479,Bengaluru Western Trends,Western Wear,629,114,18.1,20,46,14
+MNT-0102,Kolkata Western Studio,Western Wear,993,178,17.9,35,87,14
+MNT-0439,Surat Western Emporium,Western Wear,396,71,17.9,13,33,10
+MNT-0440,Mumbai Western Trends,Western Wear,1109,198,17.9,42,81,12
+MNT-0489,Delhi Western Mart,Western Wear,156,28,17.9,4,10,5
+MNT-0107,Kolkata Footwear Emporium,Footwear,545,97,17.8,19,46,8
+MNT-0114,Surat Western Hub,Western Wear,583,104,17.8,23,47,5
+MNT-0331,Bengaluru Western Trends,Western Wear,214,38,17.8,10,14,6
+MNT-0354,Surat Western Collection,Western Wear,815,145,17.8,26,54,18
+MNT-0229,Delhi Western Bazaar,Western Wear,1269,225,17.7,38,100,19
+MNT-0231,Delhi Ethnic Studio,Ethnic Wear,158,28,17.7,6,9,2
+MNT-0362,Chennai Ethnic Emporium,Ethnic Wear,175,31,17.7,9,9,2
+MNT-0441,Delhi Accessories Bazaar,Accessories,519,92,17.7,20,41,5
+MNT-0021,Kolkata Western Bazaar,Western Wear,839,148,17.6,30,57,14
+MNT-0096,Delhi Western Emporium,Western Wear,596,105,17.6,19,49,9
+MNT-0120,Mumbai Western Studio,Western Wear,495,87,17.6,30,36,4
+MNT-0125,Surat Ethnic Studio,Ethnic Wear,210,37,17.6,8,16,8
+MNT-0197,Chennai Western Bazaar,Western Wear,1011,178,17.6,35,65,22
+MNT-0017,Delhi Footwear Collection,Footwear,1144,200,17.5,40,82,21
+MNT-0040,Kolkata Western Collection,Western Wear,970,170,17.5,33,63,16
+MNT-0118,Delhi Western Mart,Western Wear,463,81,17.5,18,33,6
+MNT-0380,Bengaluru Western Studio,Western Wear,200,35,17.5,11,14,0
+MNT-0391,Delhi Western Collection,Western Wear,502,88,17.5,14,39,10
+MNT-0465,Surat Western Collection,Western Wear,607,106,17.5,16,41,11
+MNT-0003,Surat Accessories Collection,Accessories,247,43,17.4,8,16,5
+MNT-0081,Bengaluru Western Emporium,Western Wear,581,101,17.4,25,45,7
+MNT-0483,Chennai Western House,Western Wear,522,91,17.4,16,36,8
+MNT-0043,Kolkata Western Studio,Western Wear,295,51,17.3,13,17,7
+MNT-0175,Bengaluru Ethnic House,Ethnic Wear,196,34,17.3,8,12,5
+MNT-0481,Surat Footwear Studio,Footwear,462,80,17.3,15,34,8
+MNT-0189,Chennai Western Collection,Western Wear,773,133,17.2,22,63,14
+MNT-0212,Chennai Western Emporium,Western Wear,1014,174,17.2,31,70,22
+MNT-0257,Delhi Accessories Emporium,Accessories,163,28,17.2,5,15,2
+MNT-0371,Chennai Western Trends,Western Wear,758,130,17.2,26,52,13
+MNT-0433,Delhi Western House,Western Wear,705,121,17.2,25,51,8
+MNT-0004,Bengaluru Western Collection,Western Wear,549,94,17.1,9,46,12
+MNT-0126,Delhi Footwear Bazaar,Footwear,310,53,17.1,10,17,9
+MNT-0381,Delhi Footwear House,Footwear,439,75,17.1,10,29,11
+MNT-0122,Bengaluru Western Hub,Western Wear,1029,175,17.0,33,74,11
+MNT-0365,Mumbai Western Emporium,Western Wear,1056,180,17.0,32,70,23
+MNT-0368,Kolkata Western House,Western Wear,495,84,17.0,17,33,7
+MNT-0144,Mumbai Western Mart,Western Wear,540,91,16.9,14,41,12
+MNT-0394,Mumbai Western House,Western Wear,405,68,16.8,15,25,8
+MNT-0177,Surat Footwear Trends,Footwear,120,20,16.7,3,6,3
+MNT-0253,Delhi Footwear House,Footwear,228,38,16.7,7,15,1
+MNT-0344,Delhi Western Studio,Western Wear,723,121,16.7,19,51,12
+MNT-0356,Bengaluru Footwear Bazaar,Footwear,647,108,16.7,22,48,5
+MNT-0373,Surat Footwear Trends,Footwear,186,31,16.7,7,12,4
+MNT-0082,Bengaluru Footwear Trends,Footwear,775,129,16.6,28,51,15
+MNT-0493,Kolkata Western Hub,Western Wear,688,114,16.6,32,45,9
+MNT-0041,Surat Footwear Bazaar,Footwear,394,65,16.5,12,23,5
+MNT-0172,Bengaluru Footwear Studio,Footwear,485,80,16.5,11,28,11
+MNT-0223,Mumbai Western Trends,Western Wear,442,73,16.5,18,29,3
+MNT-0251,Delhi Western Mart,Western Wear,401,66,16.5,16,24,3
+MNT-0317,Surat Footwear Trends,Footwear,528,87,16.5,12,38,13
+MNT-0087,Mumbai Western Studio,Western Wear,384,63,16.4,9,31,5
+MNT-0149,Chennai Footwear Emporium,Footwear,219,36,16.4,8,14,3
+MNT-0222,Delhi Footwear House,Footwear,537,88,16.4,16,36,4
+MNT-0289,Kolkata Footwear Hub,Footwear,275,45,16.4,9,12,4
+MNT-0303,Surat Footwear Mart,Footwear,378,62,16.4,15,15,9
+MNT-0117,Chennai Western Hub,Western Wear,196,32,16.3,3,12,4
+MNT-0291,Mumbai Accessories Collection,Accessories,104,17,16.3,6,8,0
+MNT-0236,Chennai Accessories Emporium,Accessories,441,71,16.1,10,27,9
+MNT-0312,Mumbai Footwear Trends,Footwear,453,73,16.1,21,28,7
+MNT-0208,Kolkata Western Emporium,Western Wear,884,141,16.0,26,61,11
+MNT-0228,Mumbai Footwear Hub,Footwear,431,69,16.0,16,25,8
+MNT-0135,Mumbai Western Collection,Western Wear,574,91,15.9,23,36,9
+MNT-0285,Surat Western Studio,Western Wear,409,65,15.9,13,21,6
+MNT-0349,Mumbai Western House,Western Wear,661,105,15.9,20,45,6
+MNT-0400,Bengaluru Footwear Studio,Footwear,1122,178,15.9,47,62,23
+MNT-0187,Delhi Footwear Bazaar,Footwear,1069,169,15.8,28,72,20
+MNT-0478,Delhi Western House,Western Wear,323,51,15.8,9,26,1
+MNT-0256,Mumbai Western Studio,Western Wear,324,51,15.7,10,19,5
+MNT-0450,Delhi Western House,Western Wear,338,53,15.7,13,19,4
+MNT-0467,Surat Western Bazaar,Western Wear,513,80,15.6,14,34,13
+MNT-0486,Surat Footwear Bazaar,Footwear,584,91,15.6,23,32,9
+MNT-0490,Kolkata Footwear Bazaar,Footwear,1198,187,15.6,37,65,19
+MNT-0011,Mumbai Footwear Collection,Footwear,876,136,15.5,23,56,16
+MNT-0062,Delhi Footwear Mart,Footwear,964,149,15.5,20,61,12
+MNT-0286,Delhi Footwear Emporium,Footwear,522,81,15.5,22,30,12
+MNT-0301,Chennai Accessories Bazaar,Accessories,362,56,15.5,8,18,7
+MNT-0288,Delhi Footwear Emporium,Footwear,790,122,15.4,21,57,8
+MNT-0470,Mumbai Footwear House,Footwear,253,39,15.4,8,15,2
+MNT-0477,Bengaluru Footwear Mart,Footwear,616,95,15.4,24,34,7
+MNT-0097,Chennai Footwear Hub,Footwear,666,102,15.3,16,42,17
+MNT-0145,Bengaluru Footwear Bazaar,Footwear,1098,168,15.3,41,68,16
+MNT-0496,Delhi Footwear House,Footwear,635,97,15.3,13,49,13
+MNT-0010,Mumbai Footwear Studio,Footwear,211,32,15.2,7,14,2
+MNT-0015,Delhi Footwear Studio,Footwear,677,103,15.2,24,41,11
+MNT-0070,Bengaluru Footwear Collection,Footwear,310,47,15.2,11,25,2
+MNT-0166,Chennai Footwear Hub,Footwear,389,59,15.2,13,25,8
+MNT-0249,Kolkata Footwear House,Footwear,907,137,15.1,35,58,10
+MNT-0322,Bengaluru Footwear Trends,Footwear,647,98,15.1,21,34,14
+MNT-0142,Kolkata Footwear Hub,Footwear,814,121,14.9,25,47,18
+MNT-0385,Mumbai Footwear House,Footwear,315,47,14.9,8,18,2
+MNT-0487,Delhi Footwear House,Footwear,646,96,14.9,18,49,10
+MNT-0038,Mumbai Footwear Trends,Footwear,677,100,14.8,20,34,10
+MNT-0210,Bengaluru Footwear House,Footwear,317,47,14.8,6,21,5
+MNT-0220,Surat Footwear House,Footwear,236,35,14.8,8,8,3
+MNT-0314,Bengaluru Footwear Trends,Footwear,209,31,14.8,12,6,3
+MNT-0366,Surat Footwear Trends,Footwear,683,101,14.8,17,39,8
+MNT-0471,Delhi Footwear Hub,Footwear,772,114,14.8,18,41,13
+MNT-0067,Kolkata Footwear Studio,Footwear,729,107,14.7,19,46,9
+MNT-0116,Chennai Accessories House,Accessories,326,48,14.7,7,23,6
+MNT-0384,Bengaluru Footwear Collection,Footwear,790,116,14.7,23,42,9
+MNT-0399,Mumbai Footwear Bazaar,Footwear,855,126,14.7,24,48,16
+MNT-0420,Bengaluru Sports Collection,Sports,538,79,14.7,17,29,12
+MNT-0466,Bengaluru Western House,Western Wear,340,50,14.7,14,17,5
+MNT-0093,Delhi Footwear Emporium,Footwear,801,117,14.6,22,43,17
+MNT-0027,Surat Footwear Mart,Footwear,863,125,14.5,31,50,13
+MNT-0055,Mumbai Western Studio,Western Wear,227,33,14.5,9,15,3
+MNT-0232,Mumbai Footwear Trends,Footwear,1107,161,14.5,32,69,16
+MNT-0315,Mumbai Footwear House,Footwear,351,51,14.5,9,23,1
+MNT-0410,Delhi Sports Trends,Sports,235,34,14.5,5,13,1
+MNT-0063,Kolkata Footwear House,Footwear,448,64,14.3,14,27,6
+MNT-0124,Bengaluru Footwear Mart,Footwear,491,70,14.3,16,20,11
+MNT-0219,Chennai Sports Bazaar,Sports,426,61,14.3,12,22,8
+MNT-0300,Chennai Western Hub,Western Wear,287,41,14.3,8,14,0
+MNT-0324,Chennai Footwear Studio,Footwear,223,32,14.3,4,13,4
+MNT-0458,Bengaluru Footwear Hub,Footwear,511,73,14.3,15,22,12
+MNT-0058,Bengaluru Footwear Studio,Footwear,670,95,14.2,17,32,14
+MNT-0045,Mumbai Accessories Bazaar,Accessories,432,61,14.1,10,26,3
+MNT-0183,Mumbai Footwear Mart,Footwear,569,80,14.1,10,34,10
+MNT-0278,Mumbai Footwear Trends,Footwear,149,21,14.1,7,8,1
+MNT-0034,Chennai Footwear Studio,Footwear,613,86,14.0,16,37,11
+MNT-0304,Bengaluru Footwear Hub,Footwear,587,82,14.0,26,28,7
+MNT-0182,Mumbai Accessories House,Accessories,374,52,13.9,16,13,6
+MNT-0262,Mumbai Accessories Hub,Accessories,570,79,13.9,14,30,15
+MNT-0276,Kolkata Footwear Collection,Footwear,431,60,13.9,7,26,6
+MNT-0307,Chennai Footwear Bazaar,Footwear,683,95,13.9,22,35,8
+MNT-0379,Bengaluru Footwear Hub,Footwear,545,76,13.9,19,29,4
+MNT-0088,Delhi Footwear Studio,Footwear,681,94,13.8,15,36,9
+MNT-0154,Mumbai Footwear Mart,Footwear,974,133,13.7,29,45,14
+MNT-0022,Delhi Footwear Studio,Footwear,1070,146,13.6,29,58,12
+MNT-0072,Kolkata Footwear Studio,Footwear,132,18,13.6,5,5,0
+MNT-0244,Mumbai Footwear Trends,Footwear,147,20,13.6,7,7,1
+MNT-0500,Delhi Footwear Hub,Footwear,764,104,13.6,24,41,7
+MNT-0353,Kolkata Footwear Studio,Footwear,866,117,13.5,25,54,10
+MNT-0047,Delhi Footwear Collection,Footwear,469,63,13.4,14,22,5
+MNT-0104,Chennai Sports House,Sports,372,50,13.4,11,24,2
+MNT-0121,Kolkata Western Emporium,Western Wear,314,42,13.4,10,16,5
+MNT-0377,Delhi Sports Emporium,Sports,410,55,13.4,9,22,6
+MNT-0453,Delhi Western Trends,Western Wear,150,20,13.3,4,6,2
+MNT-0006,Kolkata Sports House,Sports,551,73,13.2,12,32,5
+MNT-0202,Delhi Sports Trends,Sports,129,17,13.2,2,9,5
+MNT-0378,Delhi Footwear House,Footwear,136,18,13.2,3,10,0
+MNT-0248,Delhi Footwear House,Footwear,291,38,13.1,5,15,9
+MNT-0328,Mumbai Footwear House,Footwear,251,33,13.1,8,13,2
+MNT-0355,Mumbai Footwear Bazaar,Footwear,603,79,13.1,20,29,7
+MNT-0406,Chennai Accessories Emporium,Accessories,222,29,13.1,5,11,3
+MNT-0499,Surat Footwear Trends,Footwear,497,65,13.1,13,23,7
+MNT-0090,Mumbai Footwear Trends,Footwear,888,115,13.0,19,47,12
+MNT-0119,Mumbai Footwear Mart,Footwear,350,45,12.9,8,13,4
+MNT-0279,Kolkata Accessories Bazaar,Accessories,425,54,12.7,14,24,6
+MNT-0438,Mumbai Footwear Studio,Footwear,717,91,12.7,14,34,12
+MNT-0002,Surat Footwear Trends,Footwear,460,58,12.6,10,24,9
+MNT-0035,Mumbai Footwear Hub,Footwear,844,106,12.6,14,43,17
+MNT-0497,Bengaluru Footwear Emporium,Footwear,508,64,12.6,11,20,9
+MNT-0237,Mumbai Footwear House,Footwear,548,68,12.4,17,24,3
+MNT-0111,Bengaluru Footwear Bazaar,Footwear,253,31,12.3,9,13,5
+MNT-0152,Surat Accessories Bazaar,Accessories,603,74,12.3,11,35,8
+MNT-0094,Bengaluru Footwear House,Footwear,514,62,12.1,14,22,6
+MNT-0138,Chennai Footwear Trends,Footwear,404,49,12.1,9,21,5
+MNT-0414,Surat Accessories Mart,Accessories,298,36,12.1,6,18,3
+MNT-0320,Delhi Sports Emporium,Sports,367,44,12.0,5,12,4
+MNT-0079,Kolkata Footwear Bazaar,Footwear,248,29,11.7,5,14,2
+MNT-0390,Chennai Accessories Emporium,Accessories,523,60,11.5,14,18,10
+MNT-0426,Delhi Accessories Mart,Accessories,1327,148,11.2,26,75,11
+MNT-0343,Bengaluru Accessories Mart,Accessories,686,76,11.1,14,34,6
+MNT-0194,Delhi Accessories House,Accessories,483,53,11.0,11,21,7
+MNT-0347,Delhi Sports Bazaar,Sports,319,35,11.0,7,13,3
+MNT-0250,Kolkata Footwear Collection,Footwear,147,16,10.9,2,8,4
+MNT-0408,Mumbai Accessories Studio,Accessories,396,43,10.9,5,18,4
+MNT-0080,Delhi Accessories House,Accessories,567,61,10.8,8,24,9
+MNT-0246,Bengaluru Accessories Emporium,Accessories,920,99,10.8,25,39,7
+MNT-0428,Kolkata Accessories Collection,Accessories,809,87,10.8,12,32,10
+MNT-0452,Delhi Accessories Hub,Accessories,1469,159,10.8,30,59,22
+MNT-0334,Chennai Accessories Emporium,Accessories,823,88,10.7,14,39,13
+MNT-0019,Mumbai Accessories Studio,Accessories,396,41,10.4,9,16,4
+MNT-0056,Mumbai Accessories Bazaar,Accessories,793,82,10.3,14,39,6
+MNT-0418,Mumbai Accessories Bazaar,Accessories,107,11,10.3,3,2,0
+MNT-0431,Delhi Sports House,Sports,721,74,10.3,21,23,10
+MNT-0008,Kolkata Accessories House,Accessories,333,34,10.2,11,14,2
+MNT-0383,Surat Accessories Hub,Accessories,627,64,10.2,13,25,3
+MNT-0241,Mumbai Accessories House,Accessories,808,82,10.1,15,40,9
+MNT-0299,Chennai Accessories House,Accessories,773,78,10.1,14,31,11
+MNT-0346,Surat Accessories Bazaar,Accessories,990,100,10.1,16,49,9
+MNT-0358,Kolkata Accessories House,Accessories,296,30,10.1,3,8,2
+MNT-0024,Bengaluru Accessories Mart,Accessories,320,32,10.0,5,17,3
+MNT-0168,Surat Accessories Emporium,Accessories,301,30,10.0,3,15,4
+MNT-0430,Chennai Accessories Bazaar,Accessories,793,79,10.0,12,35,6
+MNT-0046,Delhi Accessories Hub,Accessories,1047,104,9.9,19,33,12
+MNT-0432,Delhi Accessories Mart,Accessories,476,47,9.9,11,20,2
+MNT-0298,Mumbai Accessories Collection,Accessories,933,91,9.8,24,32,11
+MNT-0403,Mumbai Accessories Studio,Accessories,450,44,9.8,7,18,4
+MNT-0340,Bengaluru Sports Trends,Sports,206,20,9.7,6,7,1
+MNT-0459,Bengaluru Accessories Collection,Accessories,402,39,9.7,6,16,6
+MNT-0014,Delhi Accessories Hub,Accessories,250,24,9.6,5,8,2
+MNT-0181,Mumbai Accessories Studio,Accessories,805,77,9.6,15,31,9
+MNT-0001,Chennai Accessories Hub,Accessories,264,25,9.5,2,10,3
+MNT-0280,Kolkata Accessories Studio,Accessories,954,91,9.5,25,28,11
+MNT-0139,Kolkata Accessories Mart,Accessories,692,65,9.4,21,18,8
+MNT-0179,Mumbai Accessories Studio,Accessories,684,64,9.4,9,28,4
+MNT-0201,Delhi Accessories Bazaar,Accessories,192,18,9.4,4,9,2
+MNT-0296,Delhi Sports Emporium,Sports,312,29,9.3,3,20,0
+MNT-0370,Mumbai Accessories House,Accessories,626,58,9.3,12,28,7
+MNT-0397,Delhi Accessories Hub,Accessories,870,81,9.3,20,36,7
+MNT-0053,Mumbai Accessories Bazaar,Accessories,901,83,9.2,28,22,6
+MNT-0151,Delhi Accessories Bazaar,Accessories,282,26,9.2,8,8,4
+MNT-0238,Delhi Accessories Bazaar,Accessories,510,47,9.2,8,20,4
+MNT-0327,Bengaluru Accessories Bazaar,Accessories,721,66,9.2,10,30,10
+MNT-0143,Mumbai Sports Hub,Sports,775,69,8.9,20,23,8
+MNT-0295,Mumbai Accessories Studio,Accessories,225,20,8.9,5,7,4
+MNT-0025,Mumbai Accessories Trends,Accessories,318,28,8.8,9,12,2
+MNT-0170,Delhi Sports Hub,Sports,193,17,8.8,4,7,2
+MNT-0198,Bengaluru Accessories Emporium,Accessories,398,35,8.8,5,15,4
+MNT-0306,Mumbai Footwear Trends,Footwear,102,9,8.8,2,4,1
+MNT-0388,Mumbai Sports Hub,Sports,1093,96,8.8,19,28,7
+MNT-0468,Mumbai Sports Studio,Sports,514,45,8.8,4,22,7
+MNT-0174,Chennai Sports Emporium,Sports,1035,90,8.7,20,31,10
+MNT-0191,Delhi Sports Bazaar,Sports,552,48,8.7,12,13,5
+MNT-0214,Surat Accessories Trends,Accessories,461,40,8.7,2,20,5
+MNT-0345,Mumbai Accessories Mart,Accessories,379,33,8.7,8,11,4
+MNT-0402,Delhi Sports Mart,Sports,561,49,8.7,7,21,4
+MNT-0434,Kolkata Accessories Bazaar,Accessories,505,44,8.7,5,21,7
+MNT-0110,Delhi Sports Bazaar,Sports,268,23,8.6,4,7,4
+MNT-0185,Bengaluru Accessories Studio,Accessories,1417,122,8.6,25,50,12
+MNT-0305,Mumbai Accessories Hub,Accessories,487,42,8.6,11,11,6
+MNT-0252,Delhi Accessories Mart,Accessories,757,64,8.5,15,30,6
+MNT-0367,Kolkata Accessories Bazaar,Accessories,537,45,8.4,7,18,4
+MNT-0242,Mumbai Accessories Studio,Accessories,458,38,8.3,7,14,6
+MNT-0224,Surat Sports Collection,Sports,998,82,8.2,13,35,12
+MNT-0463,Mumbai Sports Collection,Sports,329,27,8.2,4,11,4
+MNT-0012,Kolkata Sports Collection,Sports,296,24,8.1,2,11,2
+MNT-0137,Chennai Sports Mart,Sports,608,49,8.1,6,21,1
+MNT-0405,Surat Sports Collection,Sports,565,46,8.1,8,19,5
+MNT-0447,Chennai Sports Emporium,Sports,397,32,8.1,5,9,4
+MNT-0100,Bengaluru Sports House,Sports,376,30,8.0,7,14,3
+MNT-0105,Surat Accessories Emporium,Accessories,238,19,8.0,4,8,2
+MNT-0083,Mumbai Accessories Bazaar,Accessories,328,26,7.9,5,12,3
+MNT-0101,Bengaluru Sports Hub,Sports,259,20,7.7,3,10,0
+MNT-0342,Kolkata Sports Collection,Sports,363,28,7.7,2,12,5
+MNT-0386,Delhi Sports Hub,Sports,1025,79,7.7,12,34,5
+MNT-0073,Bengaluru Accessories Collection,Accessories,228,17,7.5,3,7,1
+MNT-0235,Mumbai Sports Mart,Sports,735,55,7.5,9,18,10
+MNT-0032,Chennai Sports House,Sports,665,49,7.4,13,18,4
+MNT-0382,Bengaluru Sports Collection,Sports,592,44,7.4,9,17,3
+MNT-0361,Chennai Sports Studio,Sports,925,66,7.1,11,32,8
+MNT-0293,Delhi Sports House,Sports,554,39,7.0,10,15,7
+MNT-0297,Mumbai Sports House,Sports,341,24,7.0,4,6,2
+MNT-0162,Surat Sports House,Sports,720,50,6.9,15,19,3
+MNT-0226,Mumbai Sports Mart,Sports,475,33,6.9,4,14,4
+MNT-0265,Surat Sports Trends,Sports,465,32,6.9,3,14,6
+MNT-0457,Kolkata Sports Emporium,Sports,938,65,6.9,8,33,5
+MNT-0042,Bengaluru Accessories Hub,Accessories,177,12,6.8,2,4,1
+MNT-0132,Kolkata Sports Hub,Sports,536,36,6.7,8,13,4
+MNT-0233,Mumbai Sports Hub,Sports,120,8,6.7,1,1,1
+MNT-0321,Mumbai Sports Trends,Sports,416,27,6.5,5,10,2
+MNT-0325,Kolkata Accessories Studio,Accessories,267,17,6.4,2,8,2
+MNT-0178,Bengaluru Sports Collection,Sports,158,10,6.3,0,5,2
+MNT-0023,Mumbai Sports Studio,Sports,201,12,6.0,1,6,1
